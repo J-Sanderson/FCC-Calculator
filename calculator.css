@@ -1,0 +1,76 @@
+body {
+  background-image:url("https://4.bp.blogspot.com/-pqHSrl807EM/T8yab_gYpoI/AAAAAAAAB8A/pf0kDUIIrh4/s1600/dark_wood-free_web_background.jpg");
+}
+
+body p {
+  margin:5px;
+  font-family:"courier new";
+  color:rgba(255, 255, 255, 0);
+  text-shadow: -1px -1px 1px #000000, 1px 1px 1px #eadbbf;
+}
+
+#main {
+  text-align:center;
+  border: 5px solid #403b32;
+  border-radius:5px;
+  width: 225px;
+  height: 370px;
+  margin-left:auto;
+  margin-right:auto;
+  padding:5px;
+  margin-top:40px;
+  background-color:#cebb8f;
+  background-image:url("http://www.wallswithanattitude.com/images/a_golden_stampede.jpg");
+  box-shadow:0px 0px 8px #000000, inset 3px 3px 8px #000000, inset -1px -1px 2px #eadbbf, -1px -1px 2px #eadbbf;
+}
+
+#view {
+  border: 5px solid #403b32;
+  width: 200px;
+  height: 50px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 5px;
+  background-color:#9dc194;
+  text-align:right;
+  font-family:"courier new";
+  font-weight:bold;
+  font-size:xx-large;
+  line-height: 50px;
+  vertical-align: middle;
+  padding-right:5px;
+  box-shadow: inset 3px 3px 4px #000000, 1px 1px 2px #000000, -1px -1px 1px #eadbbf;
+}
+
+#keypad {
+  width:200px;
+  height:230px;
+  margin-top: 10px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.row {
+  margin-bottom:5px;
+}
+
+button {
+  width:47px;
+  height:47px;
+  border-radius:50%;
+  color:#eadbbf;
+  background-color:#403b32;
+  border-color:#eadbbf;
+  font-size:large;
+  box-shadow:3px 3px 4px #000000, inset 1px 1px 2px #000000;
+  text-shadow:1px 1px 2px #000000;
+}
+
+button:focus {
+  outline:0;
+  box-shadow:1px 1px 4px #000000, inset 2px 2px 2px #000000;
+}
+
+#zero {
+  width:97px;
+}
